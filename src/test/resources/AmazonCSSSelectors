@@ -1,0 +1,53 @@
+Css selectors
+
+1. Searchbox-    #twotabsearchtextbox
+2.cart-   #nav-cart-count
+3. signIn-   #nav-link-accountList-nav-line-1
+4. Email--  #ap_email
+5. continueButton- .a-button-input
+6. Password --    #ap_password
+7. signInSubmit-- #signInSubmit
+8.getOTP-- #auth-login-via-otp-btn input:nth-child(1)
+9. keepMeSignedInchecbox-- .a-checkbox input:nth-child(1)
+10. Today's Deals-- div[id='nav-xshop'] a:nth-of-type(4)
+11. All dropdown--   #searchDropdownBox
+12. Select your address-- #glow-ingress-line2
+13. Enter your pincode-- #GLUXZipUpdateInput
+14.prime-- #nav-link-prime
+15. signOut- #nav-item-signout
+16. searchButton- #nav-search-submit-button
+17. accName- #nav-link-accountList-nav-line-1
+18. Returns and Orders--- #nav-orders
+19 Hello- -- #glow-ingress-line1
+20 amazon logo--- #nav-logo
+21. menucloseicon- #hmenu-canvas-background>div
+22.Fashion -div[id='nav-xshop'] a:nth-of-type(5)
+23.Mobiles- div[id='nav-xshop'] a:nth-of-type(2)
+24. Amazon fashion dropdown--  #searchDropdownBox
+25.   #nav-flyout-accountList
+26. NewCustomer-- #nav-flyout-ya-newCust
+27.Starthere-- #nav-flyout-ya-newCust a:nth-child(1)
+28. CreateYourAmazonAccount- #createAccountSubmit
+29.Sign in to your account- .a-size-base-plus
+30.YourName- #ap_customer_name
+31.ChangeCountry- .icp-mkt-change-lnk
+32. BestSeller- div[id='nav-xshop'] a:nth-of-type(1)
+33.CustomerService- div[id='nav-xshop'] a:nth-of-type(3)
+34. Electronics- div[id='nav-xshop'] a:nth-of-type(6)
+35. Home & Kitchen - div[id='nav-xshop'] a:nth-of-type(8)
+36. Amazon Pay- div[id='nav-xshop'] a:nth-of-type(9)
+37. New Releases- div[id='nav-xshop'] a:nth-of-type(10)
+38. Computers- div[id='nav-xshop'] a:nth-of-type(11)
+39.Books- div[id='nav-xshop'] a:nth-of-type(12)
+40. Coupons-div[id='nav-xshop'] a:nth-of-type(13)
+41. Toys & Games- div[id='nav-xshop'] a:nth-of-type(14)
+42. Sell- div[id='nav-xshop'] a:nth-of-type(15)
+43. Car & Motorbike- div[id='nav-xshop'] a:nth-of-type(16)
+44. Baby- div[id='nav-xshop'] a:nth-of-type(17)
+45. Grocery & Gourmet Food- div[id='nav-xshop'] a:nth-of-type(18)
+46. Gift Cards- div[id='nav-xshop'] a:nth-of-type(19)
+47. Beauty & Personel Care- div[id='nav-xshop'] a:nth-of-type(20)
+48. Video Games-  div[id='nav-xshop'] a:nth-of-type(21)
+49. Sports, Fitness & Outdoors- div[id='nav-xshop'] a:nth-of-type(22)
+50. Health, Household & Personel Care-div[id='nav-xshop'] a:nth-of-type(23)
+
